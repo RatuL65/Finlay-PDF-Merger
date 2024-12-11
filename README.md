@@ -17,11 +17,11 @@ Welcome to **Finlay**, the sleek and stylish PDF merging app that makes combinin
 
 1. Clone this repository:
    ```bash
-   git clone <git-link>
+   git clone https://github.com/RatuL65/Finlay-PDF-Merger.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd finlay-pdf-merger
+   cd Finlay-PDF-Merger
    ```
 3. Run the app:
    ```bash
